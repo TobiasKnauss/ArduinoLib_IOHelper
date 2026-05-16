@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For PushButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPinMode	KEYWORD2
+getPinModeName	KEYWORD2
+getText_HighLow	KEYWORD2
+getText_OnOff	KEYWORD2
+isPinModeValid	KEYWORD2
+setPinMode	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
